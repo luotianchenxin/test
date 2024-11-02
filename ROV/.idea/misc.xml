@@ -1,0 +1,80 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProject/ROV/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.146875" />
+        <entry key="..\:/AndroidProject/ROV/app/src/main/res/drawable/analyse.xml" value="0.1109375" />
+        <entry key="..\:/AndroidProject/ROV/app/src/main/res/drawable/analyse_button_click.xml" value="0.1109375" />
+        <entry key="..\:/AndroidProject/ROV/app/src/main/res/drawable/button_shape.xml" value="0.1109375" />
+        <entry key="..\:/AndroidProject/ROV/app/src/main/res/drawable/decorate_cloumn_shape.xml" value="0.1109375" />
+        <entry key="..\:/AndroidProject/ROV/app/src/main/res/drawable/function_button_shap.xml" value="0.1109375" />
+        <entry key="..\:/AndroidProject/ROV/app/src/main/res/drawable/help_button.xml" value="0.1109375" />
+        <entry key="..\:/AndroidProject/ROV/app/src/main/res/drawable/help_button_click.xml" value="0.1109375" />
+        <entry key="..\:/AndroidProject/ROV/app/src/main/res/drawable/ic_back.xml" value="0.12291666666666666" />
+        <entry key="..\:/AndroidProject/ROV/app/src/main/res/drawable/ic_buletooth.xml" value="0.146875" />
+        <entry key="..\:/AndroidProject/ROV/app/src/main/res/drawable/ic_capture.xml" value="0.1109375" />
+        <entry key="..\:/AndroidProject/ROV/app/src/main/res/drawable/ic_icon_back2.xml" value="0.1328125" />
+        <entry key="..\:/AndroidProject/ROV/app/src/main/res/drawable/ic_icon_command.xml" value="0.14537037037037037" />
+        <entry key="..\:/AndroidProject/ROV/app/src/main/res/drawable/ic_icon_device.xml" value="0.15416666666666667" />
+        <entry key="..\:/AndroidProject/ROV/app/src/main/res/drawable/ic_icon_home.xml" value="0.1328125" />
+        <entry key="..\:/AndroidProject/ROV/app/src/main/res/drawable/ic_icon_input.xml" value="0.1328125" />
+        <entry key="..\:/AndroidProject/ROV/app/src/main/res/drawable/ic_icon_search.xml" value="0.2953125" />
+        <entry key="..\:/AndroidProject/ROV/app/src/main/res/drawable/ic_launcher_background.xml" value="0.146875" />
+        <entry key="..\:/AndroidProject/ROV/app/src/main/res/drawable/ic_ph.xml" value="0.1359375" />
+        <entry key="..\:/AndroidProject/ROV/app/src/main/res/drawable/ic_receiver.xml" value="0.14537037037037037" />
+        <entry key="..\:/AndroidProject/ROV/app/src/main/res/drawable/joystick_button_click.xml" value="0.146875" />
+        <entry key="..\:/AndroidProject/ROV/app/src/main/res/drawable/life_button_click.xml" value="0.1109375" />
+        <entry key="..\:/AndroidProject/ROV/app/src/main/res/drawable/rocking_bar_shape.xml" value="0.15" />
+        <entry key="..\:/AndroidProject/ROV/app/src/main/res/drawable/server_command_editor.xml" value="0.165625" />
+        <entry key="..\:/AndroidProject/ROV/app/src/main/res/drawable/server_command_layout.xml" value="0.165625" />
+        <entry key="..\:/AndroidProject/ROV/app/src/main/res/drawable/top_search_shap.xml" value="0.1425925925925926" />
+        <entry key="..\:/AndroidProject/ROV/app/src/main/res/drawable/video_button.xml" value="0.1109375" />
+        <entry key="..\:/AndroidProject/ROV/app/src/main/res/drawable/video_button_click.xml" value="0.1109375" />
+        <entry key="..\:/AndroidProject/ROV/app/src/main/res/layout/activity_app_client.xml" value="0.1" />
+        <entry key="..\:/AndroidProject/ROV/app/src/main/res/layout/activity_bluetooth_device.xml" value="0.11666666666666667" />
+        <entry key="..\:/AndroidProject/ROV/app/src/main/res/layout/activity_data_analysis.xml" value="0.22" />
+        <entry key="..\:/AndroidProject/ROV/app/src/main/res/layout/activity_life2.xml" value="0.1203125" />
+        <entry key="..\:/AndroidProject/ROV/app/src/main/res/layout/activity_main.xml" value="0.13333333333333333" />
+        <entry key="..\:/AndroidProject/ROV/app/src/main/res/layout/activity_server_command.xml" value="0.14492753623188406" />
+        <entry key="..\:/AndroidProject/ROV/app/src/main/res/layout/activity_video_review.xml" value="0.1234375" />
+        <entry key="..\:/AndroidProject/ROV/app/src/main/res/layout/fragment_bluetooth.xml" value="0.1" />
+        <entry key="..\:/AndroidProject/ROV/app/src/main/res/layout/fragment_first.xml" value="0.1" />
+        <entry key="..\:/AndroidProject/ROV/app/src/main/res/layout/fragment_home.xml" value="0.16666666666666666" />
+        <entry key="..\:/AndroidProject/ROV/app/src/main/res/layout/function_button_view.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/luotianchenxin/Desktop/ROV/app/src/main/res/layout/activity_life2.xml" value="0.264" />
+        <entry key="..\:/Users/luotianchenxin/Desktop/ROV/app/src/main/res/layout/fragment_bluetooth.xml" value="0.25364583333333335" />
+        <entry key="..\:/appprogram/ROV/app/src/main/res/drawable/button_shape.xml" value="0.10416666666666667" />
+        <entry key="..\:/appprogram/ROV/app/src/main/res/drawable/function_button_view.xml" value="0.1" />
+        <entry key="..\:/appprogram/ROV/app/src/main/res/drawable/ic_back.xml" value="0.1953125" />
+        <entry key="..\:/appprogram/ROV/app/src/main/res/drawable/ic_buletooth.xml" value="0.1" />
+        <entry key="..\:/appprogram/ROV/app/src/main/res/drawable/ic_icon_device.xml" value="0.1953125" />
+        <entry key="..\:/appprogram/ROV/app/src/main/res/drawable/ic_icon_home.xml" value="0.1953125" />
+        <entry key="..\:/appprogram/ROV/app/src/main/res/drawable/ic_receiver.xml" value="0.1" />
+        <entry key="..\:/appprogram/ROV/app/src/main/res/drawable/ic_straight_back.xml" value="0.1" />
+        <entry key="..\:/appprogram/ROV/app/src/main/res/layout/activity_app_client.xml" value="0.14666666666666667" />
+        <entry key="..\:/appprogram/ROV/app/src/main/res/layout/activity_bluetooth_device.xml" value="0.16666666666666666" />
+        <entry key="..\:/appprogram/ROV/app/src/main/res/layout/activity_life2.xml" value="0.1" />
+        <entry key="..\:/appprogram/ROV/app/src/main/res/layout/activity_main.xml" value="0.17916666666666667" />
+        <entry key="..\:/appprogram/ROV/app/src/main/res/layout/fragment_bluetooth.xml" value="0.17916666666666667" />
+        <entry key="..\:/appprogram/ROV/app/src/main/res/layout/fragment_first.xml" value="0.14666666666666667" />
+        <entry key="..\:/appprogram/ROV/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/appprogram/ROV/app/src/main/res/layout/fragment_second.xml" value="0.14666666666666667" />
+        <entry key="..\:/appprogram/ROV/app/src/main/res/layout/function_button_view.xml" value="0.22" />
+        <entry key="..\:/appprogram/ROV/app/src/main/res/layout/rockingbar_view.xml" value="0.1140625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1359375" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

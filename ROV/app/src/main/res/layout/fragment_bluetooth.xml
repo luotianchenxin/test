@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+        <variable
+            name="data"
+            type="com.example.rov.Bluetooth" />
+    </data>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:id="@+id/receiver"
+            android:background="#00000000"
+            android:drawableStart="@drawable/ic_receiver"
+            android:paddingEnd="220dp"
+            android:paddingStart="10dp"
+            android:text="@string/server_info"
+            >
+        </Button>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:id="@+id/command"
+            android:background="#00000000"
+            android:drawableStart="@drawable/ic_icon_command"
+            android:paddingEnd="230dp"
+            android:paddingStart="10dp"
+            android:text="@string/server_command"
+            >
+        </Button>
+
+    </LinearLayout>
+</layout>

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ROV</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_life">Life</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="todo">TODO</string>
+    <string name="A_Button"> A</string>
+    <string name="B_Button"> B</string>
+    <string name="X_Button"> X</string>
+    <string name="Y_Button"> Y</string>
+    <string name="server_command">服务器控制</string>
+    <string name="data_analysis">水下数据分析</string>
+    <string name="server_info">服务器信息设置</string>
+    <string name="depth">深度</string>
+    <string name="salinity">盐度</string>
+    <string name="turbidity">浊度</string>
+    <string name="PH">PH值</string>
+</resources>
